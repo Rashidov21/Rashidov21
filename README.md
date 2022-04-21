@@ -64,3 +64,6 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## **Github Stats**
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashidov21)](https://github.com/Rashidov21/github-readme-stats)
