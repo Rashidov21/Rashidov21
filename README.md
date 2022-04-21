@@ -16,8 +16,7 @@
 
 </br>
 
-()_()
-(. .)
+
 
 - 🔭 I’m currently working on **[Robocode IT Academy](https://robocode.uz)**
 - 🌱 I’m currently learning **[Vue3](https://vuejs.org)**
