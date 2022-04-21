@@ -67,3 +67,6 @@
 
 ## **Github Stats**
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashidov21&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/Rashidov21/github-readme-stats)
+
+## **Top Langs**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidov21&layout=compact)](https://github.com/Rashidov21/github-readme-stats)
