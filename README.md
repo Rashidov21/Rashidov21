@@ -66,4 +66,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## **Github Stats**
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashidov21&hide=contribs,prs)](https://github.com/Rashidov21/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashidov21&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/Rashidov21/github-readme-stats)
