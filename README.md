@@ -36,6 +36,7 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-db-orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
+![SQLite3](https://img.shields.io/badge/SQLite-3-orange)
 
 
 ## **Front-end**
