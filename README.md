@@ -39,8 +39,12 @@
 
 
 ### **Front-end**
-
+     - **Basic Tools**
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange)
+![Figma](https://img.shields.io/badge/Figma-Design-red)
+![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-yellow)
+![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-orange)
+
 ![HTML](https://img.shields.io/badge/HTML-5-informational)
 ![CSS](https://img.shields.io/badge/CSS-3-informational)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-orange)
