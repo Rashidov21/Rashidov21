@@ -16,7 +16,6 @@
 
 </br>
 
-==============
 
 - 🔭 I’m currently working on **[Robocode IT Academy](https://robocode.uz)**
 - 🌱 I’m currently learning **[Vue3](https://vuejs.org)**
@@ -59,3 +58,9 @@
 ![JQuery](https://img.shields.io/badge/Jquery-Lib-orange)
 ![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-yellow)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
+
+
+## **Tools**
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
