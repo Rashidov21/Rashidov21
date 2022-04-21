@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **[Robocode IT Academy](https://robocode.uz)**
 - 🌱 I’m currently learning **[Vue3](https://vuejs.org)**
-- 💬 Ask me about  | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
@@ -33,7 +33,17 @@
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 
 ### **Databases**
-![SQLite3](https://img.shields.io/badge/sqlite3-db-yellowgreen)
+
 ![Firebase](https://img.shields.io/badge/firebase-db-orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
+
+
 ### **Front-end**
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange)
+![HTML](https://img.shields.io/badge/HTML-5-informational)
+![CSS](https://img.shields.io/badge/CSS-3-informational)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-orange)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-orange)
+![Bulma](https://img.shields.io/badge/Bulma-CSS-brightgreen)
+![Materialize](https://img.shields.io/badge/Materialize-CSS-green)
