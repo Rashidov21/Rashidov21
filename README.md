@@ -29,7 +29,13 @@
 
 ## Technology stack
 
-# **Back-end**
+### **Back-end**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+
+### **Databases**
+![SQLite3](https://img.shields.io/badge/sqlite3-db-yellowgreen)
+![Firebase](https://img.shields.io/badge/firebase-db-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
+### **Front-end**
