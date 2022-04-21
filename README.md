@@ -39,19 +39,19 @@
 
 
 ### **Front-end**
-     - **Basic Tools**
+- **Basic Tools**
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange)
 ![Figma](https://img.shields.io/badge/Figma-Design-red)
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-yellow)
 ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-orange)
-    - **Main**
+- **Main**
 ![HTML](https://img.shields.io/badge/HTML-5-informational)
 ![CSS](https://img.shields.io/badge/CSS-3-informational)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-orange)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-orange)
 ![Bulma](https://img.shields.io/badge/Bulma-CSS-brightgreen)
 ![Materialize](https://img.shields.io/badge/Materialize-CSS-green)
-    - **JavaScript**
+- **JavaScript**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![DOM](https://img.shields.io/badge/DOM-Manipulation-yellow)
 ![JQuery](https://img.shields.io/badge/Jquery-Lib-red)
