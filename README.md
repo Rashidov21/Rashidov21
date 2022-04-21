@@ -25,20 +25,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## Technology stack
+# Technology stack
 
-### **Back-end**
+## **Back-end**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 
-### **Databases**
+## **Databases**
 
 ![Firebase](https://img.shields.io/badge/firebase-db-orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
 
 
-### **Front-end**
+## **Front-end**
 ### - **Basic Tools**
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange)
 ![Figma](https://img.shields.io/badge/Figma-Design-red)
