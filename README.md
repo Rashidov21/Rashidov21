@@ -44,10 +44,17 @@
 ![Figma](https://img.shields.io/badge/Figma-Design-red)
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-yellow)
 ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-orange)
-
+    - **Main**
 ![HTML](https://img.shields.io/badge/HTML-5-informational)
 ![CSS](https://img.shields.io/badge/CSS-3-informational)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-orange)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-orange)
 ![Bulma](https://img.shields.io/badge/Bulma-CSS-brightgreen)
 ![Materialize](https://img.shields.io/badge/Materialize-CSS-green)
+    - **JavaScript**
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![DOM](https://img.shields.io/badge/DOM-Manipulation-yellow)
+![JQuery](https://img.shields.io/badge/Jquery-Lib-red)
+![JQuery](https://img.shields.io/badge/Jquery-Lib-orange)
+![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-yellow)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
