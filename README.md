@@ -11,7 +11,8 @@
 ## About me
 
 - 🔭 I’m currently working on **[Robocode IT Academy](https://robocode.uz)**
-- 💬 Ask me about programming on my [Instagram](https://www.instagram.com/rashidov_21/)
+- 💬 Ask me about programming on my **[Instagram](https://www.instagram.com/rashidov_21/)**
+- ⚡ My personal blog: **[pyblog.uz](https://pyblog.uz/)**
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
