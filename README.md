@@ -19,8 +19,7 @@
 ## About me
 
 - 🔭 I’m currently working on **[Robocode IT Academy](https://robocode.uz)**
-- 🌱 I’m currently learning **[Vue3](https://vuejs.org)**
-- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
+- 💬 Ask me about programming on my  ![Instagram](https://www.instagram.com/rashidov_21/)
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
