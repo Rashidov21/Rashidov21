@@ -10,7 +10,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on **[Robocode IT Academy](https://robocode.uz)**
+- 🔭 I’m currently working at **Home**
 - 💬 Ask me about programming on my **[Instagram](https://www.instagram.com/rashidov_21/)**
 - ⚡ My personal blog: **[pyblog.uz](https://pyblog.uz/)**
 <!-- - 📫 How to reach me: ...
