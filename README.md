@@ -1,11 +1,5 @@
 ## Hi there 👋 I'm a Full-Stack developer
 
-
-
-<a href="https://www.linkedin.com/in/rashidov21/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 </br>
 
 ## About me
